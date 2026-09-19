@@ -1,0 +1,2 @@
+Python >= 3.10
+Dependencies: Python standard library only
